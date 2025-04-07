@@ -1,0 +1,10 @@
+engine-tolerance-diamater
+inner: 20.5, 21 mm
+thickness: 1.5 mm
+20.5 is too tight, 21 is very loose, new design: 
+inner: 20.7
+outer: 23
+
+lock-mechanism-tolerance. 
+51 49 46 25(10) 2 1 are the dimensions for the lock with angular table shape
+
