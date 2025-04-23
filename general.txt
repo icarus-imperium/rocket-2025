@@ -8,3 +8,7 @@ outer: 23
 lock-mechanism-tolerance. 
 51 49 46 25(10) 2 1 are the dimensions for the lock with angular table shape
 
+
+The wire holder must be 5mm from the engine nose of the rocket
+We should make some from of recycleing the rocket.
+
