@@ -1,5 +1,7 @@
-## Launch: 2025-04-13 12:20
+# Launch: 2025-04-13 12:20
 [Video](https://drive.google.com/file/d/1womVnZ_m23aot_hYxEVoOb3egwBil4JC/view?usp=sharing)
+
+
 ![Capture of skinnier rocket with Engine burn right after clearing guide rod](pictures-and-videos/02-flight.jpg)
 Capture of skinnier rocket with Engine burn right after clearing guide rod
 
@@ -46,32 +48,57 @@ Capture of skinnier rocket with Engine burn right after clearing guide rod
 - Thickness fin = 1.5 mm
 - Radius of chamfer at fin-base contact = 4 mm
 
+# The team
+![The team](pictures-and-videos/12-going-to-launch-site.jpg)
 
 
-![](pictures-and-videos/02-flight.jpg)
-![](pictures-and-videos/03-view.jpg)
-![](pictures-and-videos/04-dimensions.png)
-![](pictures-and-videos/05-open-rocket.png)
-![](pictures-and-videos/06-flight-path.png)
-![](pictures-and-videos/07-programme.jpg)
-![](pictures-and-videos/08-team-profile.jpg)
-![](pictures-and-videos/09-post-video.jpg)
-![](pictures-and-videos/12-going-to-launch-site.jpg)
-![](pictures-and-videos/13-sitting.jpg)
-![](pictures-and-videos/14-drama-at-launch-site.jpg)
-![](pictures-and-videos/15-drama-at-launch-site.jpg)
-![](pictures-and-videos/16-drama-at-launch-site.jpg)
-![](pictures-and-videos/17-designing-part-in-fabrica.jpg)
-![](pictures-and-videos/18-tail-design.jpg)
-![](pictures-and-videos/19-tail-part-ready.png)
-![](pictures-and-videos/20-tail-and-engine.jpg)
-![](pictures-and-videos/21-nose.jpg)
-![](pictures-and-videos/22-rocket-and-fabrica-table.jpg)
-![](pictures-and-videos/23-mass-of-whole-rocket.jpg)
-![](pictures-and-videos/24-collection-of-instruments.jpg)
+# Dimensions 
+![Model of rockets after painting without stickers](pictures-and-videos/03-view.jpg)Model of rockets after painting without stickers
+
+![Dimensions of rocket](pictures-and-videos/04-dimensions.png)
+Dimensions of rocket
+
+![Open Rocket: model](pictures-and-videos/05-open-rocket.png)
+Open Rocket: model
+
+![Open Rocket: flight simulation](pictures-and-videos/06-flight-path.png)
+Open Rocket: flight simulation
+
+# Announcements
+![Launch schedule](pictures-and-videos/07-programme.jpg)
+Launch schedule [on vk](https://vk.com/wall-212168580_434)
+
+![Profile of rocket team](pictures-and-videos/08-team-profile.jpg)
+Profile of rocket team
+
+![Video published on Phystech.confessions](pictures-and-videos/09-post-video.jpg)
+Video published on [Phystech.confessions](https://vk.com/wall-214737987_80121)
 
 
 
+# Launch Preparation
+![Rocket sitting on the launch pad](pictures-and-videos/13-sitting.jpg)
+Rocket sitting on the launch pad
 
+![Team in launch preparation](pictures-and-videos/14-drama-at-launch-site.jpg)
+Team in launch preparation
 
+# Parts
+![Technical drawing of the tail](pictures-and-videos/18-tail-design.jpg)
+Technical drawing of the tail
+
+![Part: tail and engine](pictures-and-videos/20-tail-and-engine.jpg)
+Part: tail and engine
+
+![Part: nose](pictures-and-videos/21-nose.jpg)
+Part: nose
+
+![Rocket, launch pad, models of parts on SolidWorks in Fabrica](pictures-and-videos/22-rocket-and-fabrica-table.jpg)
+Rocket, launch pad, models of parts on SolidWorks in Fabrica
+
+![Showing mass of the rocket: 300 g](pictures-and-videos/23-mass-of-whole-rocket.jpg)
+Showing mass of the rocket: 300 g
+
+![The set of parts and instruments used](pictures-and-videos/24-collection-of-instruments.jpg)
+The set of parts and instruments used
 
