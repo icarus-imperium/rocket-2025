@@ -13,7 +13,7 @@ Capture of skinnier rocket with Engine burn right after clearing guide rod
 ## 1-Nose
 - Mass = 40 g
 - Material = PLA
-- Length = 12.5
+- Length = 12.5 cm
 
 ## 2-Body
 - Mass = 120 g
@@ -49,6 +49,10 @@ Capture of skinnier rocket with Engine burn right after clearing guide rod
 - Radius of chamfer at fin-base contact = 4 mm
 
 # The team
+1. __[Kafi Shabbir](https://github.com/kafishabbir)__: Chief Engineer
+1. __[Reza Aliasgari Renani](https://github.com/rezaaliasgarirenani)__: Launch pad manufacture/design, launch electrical system, 3D modeling
+1. __[Sagar Kafle](https://github.com/sagarkafle56)__: Parachute construction/testing, 3D printing 
+ 
 ![The team](pictures-and-videos/12-going-to-launch-site.jpg)
 
 
