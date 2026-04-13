@@ -69,8 +69,10 @@ Open Rocket: model
 Open Rocket: flight simulation
 
 # Announcements
+[on vk](https://vk.com/wall-212168580_434)
+
 ![Launch schedule](pictures-and-videos/07-programme.jpg)
-Launch schedule [on vk](https://vk.com/wall-212168580_434)
+Launch schedule 
 
 ![Profile of rocket team](pictures-and-videos/08-team-profile.jpg)
 Profile of rocket team
