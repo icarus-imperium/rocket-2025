@@ -1,6 +1,6 @@
 # Launch: 2025-04-13 12:20
-[Video](https://drive.google.com/file/d/1womVnZ_m23aot_hYxEVoOb3egwBil4JC/view?usp=sharing)
-
+- [Video](https://drive.google.com/file/d/1womVnZ_m23aot_hYxEVoOb3egwBil4JC/view?usp=sharing)
+- [All pictures and vidoes](https://drive.google.com/drive/folders/1GrSs_9h53VK2sYCdh8MpeEVic_Eu_jt1?usp=drive_link)
 
 ![Capture of skinnier rocket with Engine burn right after clearing guide rod](pictures-and-videos/02-flight.jpg)
 Capture of skinnier rocket with Engine burn right after clearing guide rod
@@ -54,8 +54,6 @@ Capture of skinnier rocket with Engine burn right after clearing guide rod
 1. __[Sagar Kafle](https://github.com/sagarkafle56)__: Parachute construction/testing, 3D printing 
  
 ![The team](pictures-and-videos/12-going-to-launch-site.jpg)
-
-[#All media](https://drive.google.com/drive/folders/1GrSs_9h53VK2sYCdh8MpeEVic_Eu_jt1?usp=drive_link)
 
 # Dimensions
 ![Model of rockets after painting without stickers](pictures-and-videos/03-view.jpg)Model of rockets after painting without stickers
