@@ -1,5 +1,7 @@
-
 ## Launch: 2025-04-13 12:20
+
+![Capture of skinnier rocket with Engine burn right after clearing guide rod](pictures-and-videos/02-flight.jpg)
+Capture of skinnier rocket with Engine burn right after clearing guide rod
 
 ## Assembled Rocket
 - Mass: 330 g
