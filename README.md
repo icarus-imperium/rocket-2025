@@ -2,10 +2,16 @@
 - [Video](https://drive.google.com/file/d/1womVnZ_m23aot_hYxEVoOb3egwBil4JC/view?usp=sharing)
 - [All pictures and vidoes](https://drive.google.com/drive/folders/1GrSs_9h53VK2sYCdh8MpeEVic_Eu_jt1?usp=drive_link)
 
-![Capture of skinnier rocket with Engine burn right after clearing guide rod](pictures-and-videos/02-flight.jpg)
+![Capture of skinnier rocket with Engine burn right after clearing guide rod](gallery/02-flight.jpg)
 Capture of skinnier rocket with Engine burn right after clearing guide rod
 
-## Assembled Rocket
+
+# Flight
+- Apogee = 250 m
+- Range = 300 m
+- Location = 55.931894, 37.531839
+
+# Assembled Rocket
 - Mass: 330 g
 - Length = 66 cm 
 - Diameter = 5.0 cm
@@ -53,57 +59,57 @@ Capture of skinnier rocket with Engine burn right after clearing guide rod
 1. __[Reza Aliasgari Renani](https://github.com/rezaaliasgarirenani)__: Launch pad manufacture/design, launch electrical system, 3D modeling
 1. __[Sagar Kafle](https://github.com/sagarkafle56)__: Parachute construction/testing, 3D printing 
  
-![The team](pictures-and-videos/12-going-to-launch-site.jpg)
+![The team](gallery/12-going-to-launch-site.jpg)
 
 # Dimensions
-![Model of rockets after painting without stickers](pictures-and-videos/03-view.jpg)Model of rockets after painting without stickers
+![Model of rockets after painting without stickers](gallery/03-view.jpg)Model of rockets after painting without stickers
 
-![Dimensions of rocket](pictures-and-videos/04-dimensions.png)
+![Dimensions of rocket](gallery/04-dimensions.png)
 Dimensions of rocket
 
-![Open Rocket: model](pictures-and-videos/05-open-rocket.png)
+![Open Rocket: model](gallery/05-open-rocket.png)
 Open Rocket: model
 
-![Open Rocket: flight simulation](pictures-and-videos/06-flight-path.png)
+![Open Rocket: flight simulation](gallery/06-flight-path.png)
 Open Rocket: flight simulation
 
 # Announcements
 [on vk](https://vk.com/wall-212168580_434)
 
-![Launch schedule](pictures-and-videos/07-programme.jpg)
+![Launch schedule](gallery/07-programme.jpg)
 Launch schedule 
 
-![Profile of rocket team](pictures-and-videos/08-team-profile.jpg)
+![Profile of rocket team](gallery/08-team-profile.jpg)
 Profile of rocket team
 
-![Video published on Phystech.confessions](pictures-and-videos/09-post-video.jpg)
+![Video published on Phystech.confessions](gallery/09-post-video.jpg)
 Video published on [Phystech.confessions](https://vk.com/wall-214737987_80121)
 
 
 
 # Launch Preparation
-![Rocket sitting on the launch pad](pictures-and-videos/13-sitting.jpg)
+![Rocket sitting on the launch pad](gallery/13-sitting.jpg)
 Rocket sitting on the launch pad
 
-![Team in launch preparation](pictures-and-videos/14-drama-at-launch-site.jpg)
+![Team in launch preparation](gallery/14-drama-at-launch-site.jpg)
 Team in launch preparation
 
 # Parts
-![Technical drawing of the tail](pictures-and-videos/18-tail-design.jpg)
+![Technical drawing of the tail](gallery/18-tail-design.jpg)
 Technical drawing of the tail
 
-![Part: tail and engine](pictures-and-videos/20-tail-and-engine.jpg)
+![Part: tail and engine](gallery/20-tail-and-engine.jpg)
 Part: tail and engine
 
-![Part: nose](pictures-and-videos/21-nose.jpg)
+![Part: nose](gallery/21-nose.jpg)
 Part: nose
 
-![Rocket, launch pad, models of parts on SolidWorks in Fabrica](pictures-and-videos/22-rocket-and-fabrica-table.jpg)
+![Rocket, launch pad, models of parts on SolidWorks in Fabrica](gallery/22-rocket-and-fabrica-table.jpg)
 Rocket, launch pad, models of parts on SolidWorks in Fabrica
 
-![Showing mass of the rocket: 300 g](pictures-and-videos/23-mass-of-whole-rocket.jpg)
+![Showing mass of the rocket: 300 g](gallery/23-mass-of-whole-rocket.jpg)
 Showing mass of the rocket: 300 g
 
-![The set of parts and instruments used](pictures-and-videos/24-collection-of-instruments.jpg)
+![The set of parts and instruments used](gallery/24-collection-of-instruments.jpg)
 The set of parts and instruments used
 
